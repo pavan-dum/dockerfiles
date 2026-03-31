@@ -6,4 +6,4 @@ RUN useradd roboshop
 
 
 USER roboshop
-CMD ["sleep", 200]
+CMD ["sleep", "200"]
